@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at_utc": "2026-11-23T12:40:06+00:00",
+  "generated_at_utc": "2026-11-24T04:10:05+00:00",
   "as_of_trading_date": "2026-11-23",
   "market": "India NSE/BSE listed equity shares, including SMEs where represented",
   "stock_count": 99,
@@ -42,6 +42,38 @@
       "median_daily_turnover_inr": 14291611,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-06",
+      "first_seen_today": false,
+      "status": "UNVERIFIED_PRICE_MOVE"
+    },
+    {
+      "symbol": "KANELIND",
+      "exchange": "BSE",
+      "isin": "INE252C01023",
+      "sessions": 7,
+      "from_date": "2026-11-12",
+      "to_date": "2026-11-23",
+      "start_close_inr": 98.16,
+      "end_close_inr": 51.18,
+      "decline_pct": -47.86,
+      "median_daily_turnover_inr": 496642,
+      "liquidity_flag": "THIN_OR_UNKNOWN",
+      "first_seen_scan_date": "2026-11-13",
+      "first_seen_today": false,
+      "status": "UNVERIFIED_PRICE_MOVE"
+    },
+    {
+      "symbol": "GEETANJ",
+      "exchange": "BSE",
+      "isin": "INE263R01010",
+      "sessions": 7,
+      "from_date": "2026-11-12",
+      "to_date": "2026-11-23",
+      "start_close_inr": 20.28,
+      "end_close_inr": 13.0,
+      "decline_pct": -35.9,
+      "median_daily_turnover_inr": 162905,
+      "liquidity_flag": "THIN_OR_UNKNOWN",
+      "first_seen_scan_date": "2026-11-18",
       "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
@@ -110,6 +142,22 @@
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
+      "symbol": "ZAPPFRESH",
+      "exchange": "BSE",
+      "isin": "INE0SUM01015",
+      "sessions": 6,
+      "from_date": "2026-11-13",
+      "to_date": "2026-11-23",
+      "start_close_inr": 51.28,
+      "end_close_inr": 35.56,
+      "decline_pct": -30.66,
+      "median_daily_turnover_inr": 2899218,
+      "liquidity_flag": "NORMAL",
+      "first_seen_scan_date": "2026-11-17",
+      "first_seen_today": false,
+      "status": "UNVERIFIED_PRICE_MOVE"
+    },
+    {
       "symbol": "STELLANT",
       "exchange": "BSE",
       "isin": "INE395F01023",
@@ -158,6 +206,54 @@
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
+      "symbol": "VPFL",
+      "exchange": "NSE",
+      "isin": "INE2RWX01016",
+      "sessions": 7,
+      "from_date": "2026-11-12",
+      "to_date": "2026-11-23",
+      "start_close_inr": 80.65,
+      "end_close_inr": 56.5,
+      "decline_pct": -29.94,
+      "median_daily_turnover_inr": 273210,
+      "liquidity_flag": "THIN_OR_UNKNOWN",
+      "first_seen_scan_date": "2026-11-17",
+      "first_seen_today": false,
+      "status": "UNVERIFIED_PRICE_MOVE"
+    },
+    {
+      "symbol": "SKYTECH",
+      "exchange": "NSE",
+      "isin": "INE0VFE01017",
+      "sessions": 7,
+      "from_date": "2026-11-12",
+      "to_date": "2026-11-23",
+      "start_close_inr": 29.95,
+      "end_close_inr": 21.05,
+      "decline_pct": -29.72,
+      "median_daily_turnover_inr": 714120,
+      "liquidity_flag": "LIMITED",
+      "first_seen_scan_date": "2026-11-18",
+      "first_seen_today": false,
+      "status": "UNVERIFIED_PRICE_MOVE"
+    },
+    {
+      "symbol": "CCDL",
+      "exchange": "BSE",
+      "isin": "INE187R01029",
+      "sessions": 7,
+      "from_date": "2026-11-12",
+      "to_date": "2026-11-23",
+      "start_close_inr": 1.12,
+      "end_close_inr": 0.79,
+      "decline_pct": -29.46,
+      "median_daily_turnover_inr": 7532475,
+      "liquidity_flag": "NORMAL",
+      "first_seen_scan_date": "2026-11-17",
+      "first_seen_today": false,
+      "status": "UNVERIFIED_PRICE_MOVE"
+    },
+    {
       "symbol": "KWICK",
       "exchange": "BSE",
       "isin": "INE1SFA01019",
@@ -170,6 +266,38 @@
       "median_daily_turnover_inr": 18500320,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-10-27",
+      "first_seen_today": false,
+      "status": "UNVERIFIED_PRICE_MOVE"
+    },
+    {
+      "symbol": "VIVIDM",
+      "exchange": "BSE",
+      "isin": "INE647Z01025",
+      "sessions": 7,
+      "from_date": "2026-11-12",
+      "to_date": "2026-11-23",
+      "start_close_inr": 7.03,
+      "end_close_inr": 5.02,
+      "decline_pct": -28.59,
+      "median_daily_turnover_inr": 1724744,
+      "liquidity_flag": "LIMITED",
+      "first_seen_scan_date": "2026-11-20",
+      "first_seen_today": false,
+      "status": "UNVERIFIED_PRICE_MOVE"
+    },
+    {
+      "symbol": "SAPL",
+      "exchange": "BSE",
+      "isin": "INE002E01010",
+      "sessions": 7,
+      "from_date": "2026-11-12",
+      "to_date": "2026-11-23",
+      "start_close_inr": 2391.7,
+      "end_close_inr": 1726.8,
+      "decline_pct": -27.8,
+      "median_daily_turnover_inr": 6762989,
+      "liquidity_flag": "NORMAL",
+      "first_seen_scan_date": "2026-10-22",
       "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
@@ -190,6 +318,38 @@
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
+      "symbol": "KPGEL",
+      "exchange": "BSE",
+      "isin": "INE0QVH01025",
+      "sessions": 7,
+      "from_date": "2026-11-12",
+      "to_date": "2026-11-23",
+      "start_close_inr": 313.55,
+      "end_close_inr": 228.45,
+      "decline_pct": -27.14,
+      "median_daily_turnover_inr": 29383412,
+      "liquidity_flag": "NORMAL",
+      "first_seen_scan_date": "2026-11-16",
+      "first_seen_today": false,
+      "status": "UNVERIFIED_PRICE_MOVE"
+    },
+    {
+      "symbol": "TECHERA",
+      "exchange": "NSE",
+      "isin": "INE0JQS01019",
+      "sessions": 7,
+      "from_date": "2026-11-12",
+      "to_date": "2026-11-23",
+      "start_close_inr": 133.15,
+      "end_close_inr": 97.3,
+      "decline_pct": -26.92,
+      "median_daily_turnover_inr": 8950660,
+      "liquidity_flag": "NORMAL",
+      "first_seen_scan_date": "2026-11-17",
+      "first_seen_today": false,
+      "status": "UNVERIFIED_PRICE_MOVE"
+    },
+    {
       "symbol": "APLAPOLLO",
       "exchange": "NSE",
       "isin": "INE702C01027",
@@ -202,71 +362,39 @@
       "median_daily_turnover_inr": 2011497201,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
-      "symbol": "JAFINANCE",
-      "exchange": "BSE",
-      "isin": "INE825B01010",
-      "sessions": 7,
-      "from_date": "2026-11-12",
-      "to_date": "2026-11-23",
-      "start_close_inr": 149.0,
-      "end_close_inr": 113.85,
-      "decline_pct": -23.59,
-      "median_daily_turnover_inr": 59120,
-      "liquidity_flag": "THIN_OR_UNKNOWN",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
-      "status": "UNVERIFIED_PRICE_MOVE"
-    },
-    {
-      "symbol": "SWOJAS",
-      "exchange": "BSE",
-      "isin": "INE295B01016",
-      "sessions": 5,
-      "from_date": "2026-11-16",
-      "to_date": "2026-11-23",
-      "start_close_inr": 7.1,
-      "end_close_inr": 5.45,
-      "decline_pct": -23.24,
-      "median_daily_turnover_inr": 92357,
-      "liquidity_flag": "THIN_OR_UNKNOWN",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
-      "status": "UNVERIFIED_PRICE_MOVE"
-    },
-    {
-      "symbol": "BNAGROCHEM",
+      "symbol": "SHRINGARMS",
       "exchange": "NSE",
-      "isin": "INE00HZ01029",
-      "sessions": 5,
-      "from_date": "2026-11-16",
-      "to_date": "2026-11-23",
-      "start_close_inr": 17.08,
-      "end_close_inr": 13.23,
-      "decline_pct": -22.54,
-      "median_daily_turnover_inr": 980542,
-      "liquidity_flag": "LIMITED",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
-      "status": "UNVERIFIED_PRICE_MOVE"
-    },
-    {
-      "symbol": "HYPERSOFT",
-      "exchange": "BSE",
-      "isin": "INE039D01014",
+      "isin": "INE1B3L01017",
       "sessions": 7,
       "from_date": "2026-11-12",
       "to_date": "2026-11-23",
-      "start_close_inr": 144.9,
-      "end_close_inr": 112.5,
-      "decline_pct": -22.36,
-      "median_daily_turnover_inr": 929224,
-      "liquidity_flag": "LIMITED",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "start_close_inr": 311.8,
+      "end_close_inr": 232.65,
+      "decline_pct": -25.38,
+      "median_daily_turnover_inr": 146939424,
+      "liquidity_flag": "NORMAL",
+      "first_seen_scan_date": "2026-11-19",
+      "first_seen_today": false,
+      "status": "UNVERIFIED_PRICE_MOVE"
+    },
+    {
+      "symbol": "MILLWORKS",
+      "exchange": "BSE",
+      "isin": "INE1SRC01010",
+      "sessions": 7,
+      "from_date": "2026-11-12",
+      "to_date": "2026-11-23",
+      "start_close_inr": 940.7,
+      "end_close_inr": 702.5,
+      "decline_pct": -25.32,
+      "median_daily_turnover_inr": 75853370,
+      "liquidity_flag": "NORMAL",
+      "first_seen_scan_date": "2026-11-16",
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -282,135 +410,7 @@
       "median_daily_turnover_inr": 1224764642,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
-      "status": "UNVERIFIED_PRICE_MOVE"
-    },
-    {
-      "symbol": "ARIGATO",
-      "exchange": "BSE",
-      "isin": "INE021N01011",
-      "sessions": 7,
-      "from_date": "2026-11-12",
-      "to_date": "2026-11-23",
-      "start_close_inr": 30.58,
-      "end_close_inr": 23.96,
-      "decline_pct": -21.65,
-      "median_daily_turnover_inr": 136022,
-      "liquidity_flag": "THIN_OR_UNKNOWN",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
-      "status": "UNVERIFIED_PRICE_MOVE"
-    },
-    {
-      "symbol": "STANCAP",
-      "exchange": "BSE",
-      "isin": "INE625D01028",
-      "sessions": 7,
-      "from_date": "2026-11-12",
-      "to_date": "2026-11-23",
-      "start_close_inr": 0.37,
-      "end_close_inr": 0.29,
-      "decline_pct": -21.62,
-      "median_daily_turnover_inr": 3850015,
-      "liquidity_flag": "NORMAL",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
-      "status": "UNVERIFIED_PRICE_MOVE"
-    },
-    {
-      "symbol": "ESCONET",
-      "exchange": "NSE",
-      "isin": "INE0RQZ01017",
-      "sessions": 7,
-      "from_date": "2026-11-12",
-      "to_date": "2026-11-23",
-      "start_close_inr": 395.45,
-      "end_close_inr": 311.05,
-      "decline_pct": -21.34,
-      "median_daily_turnover_inr": 7957180,
-      "liquidity_flag": "NORMAL",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
-      "status": "UNVERIFIED_PRICE_MOVE"
-    },
-    {
-      "symbol": "BMISL",
-      "exchange": "NSE",
-      "isin": "INE2OKU01014",
-      "sessions": 5,
-      "from_date": "2026-11-16",
-      "to_date": "2026-11-23",
-      "start_close_inr": 208.0,
-      "end_close_inr": 164.0,
-      "decline_pct": -21.15,
-      "median_daily_turnover_inr": 6436140,
-      "liquidity_flag": "NORMAL",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
-      "status": "UNVERIFIED_PRICE_MOVE"
-    },
-    {
-      "symbol": "IPHL",
-      "exchange": "NSE",
-      "isin": "INE0DHF01018",
-      "sessions": 4,
-      "from_date": "2026-11-17",
-      "to_date": "2026-11-23",
-      "start_close_inr": 93.8,
-      "end_close_inr": 74.35,
-      "decline_pct": -20.74,
-      "median_daily_turnover_inr": 13987140,
-      "liquidity_flag": "NORMAL",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
-      "status": "UNVERIFIED_PRICE_MOVE"
-    },
-    {
-      "symbol": "AVALON",
-      "exchange": "NSE",
-      "isin": "INE0LCL01028",
-      "sessions": 7,
-      "from_date": "2026-11-12",
-      "to_date": "2026-11-23",
-      "start_close_inr": 2108.5,
-      "end_close_inr": 1674.5,
-      "decline_pct": -20.58,
-      "median_daily_turnover_inr": 782006177,
-      "liquidity_flag": "NORMAL",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
-      "status": "UNVERIFIED_PRICE_MOVE"
-    },
-    {
-      "symbol": "PUSHPA",
-      "exchange": "NSE",
-      "isin": "INE154801018",
-      "sessions": 4,
-      "from_date": "2026-11-17",
-      "to_date": "2026-11-23",
-      "start_close_inr": 158.3,
-      "end_close_inr": 126.05,
-      "decline_pct": -20.37,
-      "median_daily_turnover_inr": 27568075,
-      "liquidity_flag": "NORMAL",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
-      "status": "UNVERIFIED_PRICE_MOVE"
-    },
-    {
-      "symbol": "LORDSMARK",
-      "exchange": "BSE",
-      "isin": "INE567L01025",
-      "sessions": 6,
-      "from_date": "2026-11-13",
-      "to_date": "2026-11-23",
-      "start_close_inr": 81.49,
-      "end_close_inr": 65.13,
-      "decline_pct": -20.08,
-      "median_daily_turnover_inr": 25708535,
-      "liquidity_flag": "NORMAL",
-      "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     }
   ],
@@ -972,7 +972,7 @@
       "median_daily_turnover_inr": 2011497201,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1212,7 +1212,7 @@
       "median_daily_turnover_inr": 59120,
       "liquidity_flag": "THIN_OR_UNKNOWN",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1228,7 +1228,7 @@
       "median_daily_turnover_inr": 92357,
       "liquidity_flag": "THIN_OR_UNKNOWN",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1324,7 +1324,7 @@
       "median_daily_turnover_inr": 980542,
       "liquidity_flag": "LIMITED",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1340,7 +1340,7 @@
       "median_daily_turnover_inr": 253,
       "liquidity_flag": "THIN_OR_UNKNOWN",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1356,7 +1356,7 @@
       "median_daily_turnover_inr": 611,
       "liquidity_flag": "THIN_OR_UNKNOWN",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1388,7 +1388,7 @@
       "median_daily_turnover_inr": 929224,
       "liquidity_flag": "LIMITED",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1436,7 +1436,7 @@
       "median_daily_turnover_inr": 1224764642,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1500,7 +1500,7 @@
       "median_daily_turnover_inr": 87680,
       "liquidity_flag": "THIN_OR_UNKNOWN",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1532,7 +1532,7 @@
       "median_daily_turnover_inr": 3982,
       "liquidity_flag": "THIN_OR_UNKNOWN",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1548,7 +1548,7 @@
       "median_daily_turnover_inr": 43400,
       "liquidity_flag": "THIN_OR_UNKNOWN",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1564,7 +1564,7 @@
       "median_daily_turnover_inr": 136022,
       "liquidity_flag": "THIN_OR_UNKNOWN",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1596,7 +1596,7 @@
       "median_daily_turnover_inr": 3850015,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1660,7 +1660,7 @@
       "median_daily_turnover_inr": 7957180,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1708,7 +1708,7 @@
       "median_daily_turnover_inr": 6436140,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1740,7 +1740,7 @@
       "median_daily_turnover_inr": 112572,
       "liquidity_flag": "THIN_OR_UNKNOWN",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1756,7 +1756,7 @@
       "median_daily_turnover_inr": 13987140,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1804,7 +1804,7 @@
       "median_daily_turnover_inr": 782006177,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1852,7 +1852,7 @@
       "median_daily_turnover_inr": 27568075,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1868,7 +1868,7 @@
       "median_daily_turnover_inr": 18072,
       "liquidity_flag": "THIN_OR_UNKNOWN",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
@@ -1948,7 +1948,7 @@
       "median_daily_turnover_inr": 25708535,
       "liquidity_flag": "NORMAL",
       "first_seen_scan_date": "2026-11-23",
-      "first_seen_today": true,
+      "first_seen_today": false,
       "status": "UNVERIFIED_PRICE_MOVE"
     },
     {
